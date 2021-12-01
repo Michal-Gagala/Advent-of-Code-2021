@@ -29,12 +29,12 @@ version :: Version
 version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
-bindir     = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/bin"
-libdir     = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/lib/x86_64-linux-ghc-8.10.7/D1-0.1.0.0-D0BURkjtFvNF5fSJtLLRws-D1-test"
-dynlibdir  = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/lib/x86_64-linux-ghc-8.10.7"
-datadir    = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/share/x86_64-linux-ghc-8.10.7/D1-0.1.0.0"
-libexecdir = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/libexec/x86_64-linux-ghc-8.10.7/D1-0.1.0.0"
-sysconfdir = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/f0b0823611634fbe7f2803aeeeb0b04aa715bec71a5fc8c889153aade323a55d/8.10.7/etc"
+bindir     = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/bin"
+libdir     = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/lib/x86_64-linux-ghc-8.10.7/D1-0.1.0.0-D0BURkjtFvNF5fSJtLLRws-D1-test"
+dynlibdir  = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/lib/x86_64-linux-ghc-8.10.7"
+datadir    = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/share/x86_64-linux-ghc-8.10.7/D1-0.1.0.0"
+libexecdir = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/libexec/x86_64-linux-ghc-8.10.7/D1-0.1.0.0"
+sysconfdir = "/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/install/x86_64-linux-tinfo6/158708c25ff352caf27f5fabfc5b270c0e409e72a8ef80df0da8b6dd25636f53/8.10.7/etc"
 
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 getBinDir = catchIO (getEnv "D1_bindir") (\_ -> return bindir)

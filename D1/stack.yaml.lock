@@ -10,4 +10,11 @@ snapshots:
     url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/18/18.yaml
     sha256: 63539429076b7ebbab6daa7656cfb079393bf644971156dc349d7c0453694ac2
     size: 586296
-packages: []
+packages:
+- original:
+    hackage: hspec-2.9.2
+  completed:
+    pantry-tree:
+      sha256: d57b65ada392a372ded96431955aaf7e531be6e1f67e91e1c0da4739e8803759
+      size: 583
+    hackage: hspec-2.9.2@sha256:03c074bcadf13bdb5fda795fcce9f83a9532685d084bb0a325fdd632c3655a76,1709

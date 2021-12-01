@@ -1,18 +1,18 @@
 /home/m4ge/Shared/Dev/Private/Advent of Code/D1/package.yaml:
   hash: faa4471bf6401d771e7ef27662bdf389f1267b7f63bbfda2834eaea6fe14d993
-/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/cabal_macros.h:
-  hash: c6d79b6fde056554ab54b7e3052256b0089b0c5605db79e5fe88476946c4628a
+/home/m4ge/Shared/Dev/Private/Advent of Code/D1/app/Main.hs:
+  hash: 76b6ff5a6856b39392800f564d81a7fd1496c8e13ac7941036946f0b5757272b
 /home/m4ge/Shared/Dev/Private/Advent of Code/D1/ChangeLog.md:
   hash: fe8631bb4e365b6f4e6aaffdcb24d2eb1d426808959623d2d9a13f27552471a4
 /home/m4ge/Shared/Dev/Private/Advent of Code/D1/README.md:
   hash: 443a383531f6b39a84a25ebbefcc531799d1063ba08eec2795256cb474301144
-/home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_D1.hs:
-  hash: a15dc8d0cffde81a72028b39e4ce202b6a17b739057cadf387873d414e746ff9
 /home/m4ge/Shared/Dev/Private/Advent of Code/D1/D1.cabal:
   hash: 40c614d4f21799e6e0c439d735a290e60ef3fc46b6395a141bdfd62117f1643b
 /usr/include/stdc-predef.h:
   hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+? /home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/D1-exe/autogen/cabal_macros.h
+: hash: 3ecff33e5a5183e1bba04a48783fd1679b245d1a8fad61e746eb1e204e756637
 /home/m4ge/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
   hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
-/home/m4ge/Shared/Dev/Private/Advent of Code/D1/src/Lib.hs:
-  hash: d446bf4e79f54300aacd004482ed0e5729fda47472f969c63757b68f2e28efc9
+? /home/m4ge/Shared/Dev/Private/Advent of Code/D1/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/D1-exe/autogen/Paths_D1.hs
+: hash: 5e71959e16f3a74bb2c501740600f6cda2bb7661552d4e5ec8763cf6290d345d
